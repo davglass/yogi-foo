@@ -1,0 +1,13 @@
+{
+    "name": "yogi-foo",
+    "description": "Example yogi external command",
+    "author": "Dav Glass <davglass@gmail.com>",
+    "version": "0.0.1",
+    "keywords": [
+        "yogi", "external", "commands", "helpers"
+    ],
+    "bin": {
+        "yogi-foo": "./bin/yogi-foo.js"
+    },
+    "preferGlobal": "true"
+}
